@@ -1,9 +1,8 @@
 Isi file branch 01
-- List branch a
   * sub list a1
-  * sub list ab
 - List branch b
-- List branch c
+  * detail b1
+  * detail b2
 - List branch x
 - fit a1
 - fit a2
